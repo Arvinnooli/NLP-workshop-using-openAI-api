@@ -1,9 +1,8 @@
 # NLP-workshop-using-openAI-api
 
-##Topics:
+## Topics:
 
-
-###Langchain Tutorial
+### Langchain Tutorial
 * What is Langchain?
 * Chat Messages
 * Prompt Parsers
