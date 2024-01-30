@@ -16,7 +16,7 @@
 * Prompting Principles
 * Module 2: Prompt iteraton
 * Module 3 : Summarizing
-* Summarize with a word/sentence/character limit
+** Summarize with a word/sentence/character limit
 * Summarize with a focus on shipping and delivery
 * Summarize with a focus on price and value
 * Try extract instead of summarise
